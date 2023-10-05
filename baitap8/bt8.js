@@ -46,8 +46,8 @@ var arr = [1, 2, 3, 4, 5]
 // })
 // console.log(squaredArr);
 
-const filterArr = arr.filter(function(e){
-    return e % 2 === 0;
-});
-console.log(filterArr);
+// const filterArr = arr.filter(function(e){
+//     return e % 2 === 0;
+// });
+// console.log(filterArr);
 
