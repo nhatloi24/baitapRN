@@ -6,8 +6,8 @@
 //     let age = 19;
 // }
 // console.log(age)
-//** Khong in ra gi vi day la block scope*/
-// Các biến được khai báo bên trong khối { } không thể được truy cập từ bên ngoài khối
+//** in ra 18 gi vi day la block scope*/
+
 
 // Bài 2: Đoạn code sau in ra kết quả gì? Hãy giải thích.
 // function f1() {
